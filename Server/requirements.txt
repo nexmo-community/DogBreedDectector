@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-flask==1.0.2
+flask==2.2.5
 gunicorn
 numpy==1.15.3
 pandas==0.23.4
